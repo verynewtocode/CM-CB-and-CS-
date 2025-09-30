@@ -1,0 +1,14 @@
+{
+    "package": "cm_cb_cs_reference_notes",
+    "name": "CM/CB/CS Reference Notes",
+    "author": "Auto-generated",
+    "version": "1.0.0",
+    "homepage": "",
+    "mod": 0,
+    "min_point_version": 35,
+    "max_point_version": 60,
+    "conflicts": [],
+    "disabled": false,
+    "config": {},
+    "configDescription": ""
+}
